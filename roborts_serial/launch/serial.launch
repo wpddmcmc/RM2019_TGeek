@@ -1,0 +1,4 @@
+<launch>
+
+	<node pkg="roborts_serial" type="serial_node" name="serial" output="screen" />
+</launch>

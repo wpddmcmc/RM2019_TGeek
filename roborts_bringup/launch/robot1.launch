@@ -1,0 +1,7 @@
+<launch>
+  <master auto="start"/>
+ 
+  <node pkg="roborts_vision" type="roborts_vision_node" name="vision" output="screen" respawn="true"/>
+	<!--node pkg="roborts_serial" type="serial_node" name="serial" output="screen" respawn="true"/-->
+  
+</launch>

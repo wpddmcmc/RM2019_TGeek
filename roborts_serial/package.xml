@@ -1,0 +1,20 @@
+<package>
+    <name>roborts_serial</name>
+    <version>1.0.0</version>
+    <description>
+        The roborts_serial package provides protocol sdk for RoboMaster.
+    </description>
+    <author>XDU_IRobot</author>
+    <maintainer email="lichunpeng2200@outlook.com">skystarry</maintainer>
+    
+    <license>MIT</license>
+
+    <buildtool_depend>catkin</buildtool_depend>
+
+    <build_depend>roscpp</build_depend>
+    <build_depend>roborts_msgs</build_depend>
+
+    <run_depend>roscpp</run_depend>
+    <run_depend>roborts_msgs</run_depend>
+
+</package>

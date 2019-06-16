@@ -1,0 +1,6 @@
+<launch>
+  <master auto="start"/>
+ 
+  <node pkg="roborts_camera" type="roborts_camera_node" name="camera" output="screen" respawn="true"/>
+  
+</launch>

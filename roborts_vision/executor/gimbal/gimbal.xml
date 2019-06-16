@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<opencv_storage>
+
+  <offset_x>0</offset_x>   <!-- 单位：米-->
+  <offset_y>0</offset_y>
+  <offset_z>0</offset_z>
+
+  <offset_yaw>0</offset_yaw>
+  <offset_pitch>0</offset_pitch>
+
+  <init_v>15</init_v>
+  <init_k>0.026</init_k>
+
+</opencv_storage>

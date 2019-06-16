@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<opencv_storage>
+  
+  <z_scale>1</z_scale>
+
+  <min_distance>100</min_distance>
+  <max_distance>8000</max_distance>
+
+  <Camera_Matrix type_id="opencv-matrix">
+    <rows>3</rows>
+    <cols>3</cols>
+    <dt>d</dt>
+    <data>
+      	748.02827981044
+      	0.
+      	640.
+    	  0.
+    	  746.47468113892
+    	  360.
+      	0.
+      	0.
+	      1.
+    </data>
+  </Camera_Matrix>
+  <Distortion_Coefficients type_id="opencv-matrix">
+    <rows>5</rows>
+    <cols>1</cols>
+    <dt>d</dt>
+    <data>
+     	 0
+       0
+	     0
+       0
+       0
+    </data>
+  </Distortion_Coefficients>
+</opencv_storage>
